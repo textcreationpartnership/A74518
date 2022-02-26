@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for setling of the estates of several excepted persons in Scotland in trustees to the uses herein expressed. Wednesday April 12. 1654. Ordered by his Highness the Lord Protector, and his Council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74518</idno>
+            <idno type="STC">Thomason E1063_32</idno>
+            <idno type="STC">ESTC R209586</idno>
+            <idno type="EEBO-CITATION">99868454</idno>
+            <idno type="PROQUEST">99868454</idno>
+            <idno type="VID">169198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169198)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for setling of the estates of several excepted persons in Scotland in trustees to the uses herein expressed. Wednesday April 12. 1654. Ordered by his Highness the Lord Protector, and his Council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 265 [i.e. 269]-277, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 269 misnumbered 265.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Estates (Law) --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169198:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For ſettling of the ESTATES Of ſeveral Excepted Perſons in SCOT<g ref="char:EOLhyphen"/>LAND in TRUSTEES to the uſes herein expreſſed.</p>
+            <figure/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>Wedneſday April</hi> 12. 1654.</p>
+                        <p>ORdered by his Highneſs the Lord Protector, and his Council, That this Ordinance beforthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169198:2"/>
+            <pb n="265" facs="tcp:169198:2"/>
+            <head>
+               <figure/>AN ORDINANCE For ſettling the ESTATES of ſeve<g ref="char:EOLhyphen"/>ral Excepted Perſons in SCOTLAND in TRUSTEES to the uſes here<g ref="char:EOLhyphen"/>in expreſſed.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordi<g ref="char:EOLhyphen"/>nance, Entituled, <hi>An Ordinance of Par<g ref="char:EOLhyphen"/>don and Grace to the People of <hi>Scotland,</hi>
+               </hi> di<g ref="char:EOLhyphen"/>verſe perſons, and their Eſtates are ex<g ref="char:EOLhyphen"/>cepted and reſerved out of the ſaid Ordi<g ref="char:EOLhyphen"/>nance, and all benefit thereof, and yet ne<g ref="char:EOLhyphen"/>vertheleſs the Eſtates of the ſaid ſeveral per<g ref="char:EOLhyphen"/>ſons are thereby left ſubject to diverſe debts,
+<pb n="270" facs="tcp:169198:3"/>charges and Incumbrances, and likewiſe ſe<g ref="char:EOLhyphen"/>veral proportions of Lands, Tenements and Hereditaments are by the ſaid Ordinance ap<g ref="char:EOLhyphen"/>pointed to be ſettled, for a Proviſion of the Wives and Children of divers of the ſaid perſons in ſuch ſort and under ſuch Li<g ref="char:EOLhyphen"/>mitations, Proviſoes and Conditions as are expreſſed and contained in the ſaid Ordi<g ref="char:EOLhyphen"/>nance. And whereas alſo the Parlament hath by ſeveral Votes and Orders given unto ſeveral perſons, for ſervices done to this Com<g ref="char:EOLhyphen"/>monwealth, divers Lands, Tenements and Hereditaments out of the ſaid Confiſcated Lands in <hi>Scotland.</hi> For the more due and ſpee<g ref="char:EOLhyphen"/>dy payment and ſatisfaction of the ſaid Debts, Charges, and Incumbrances, and ſettling the premiſſes, ſo appointed by the ſaid Ordinance, for the proviſion of the ſaid wives and Children, And for the better confirmation and aſſurance of the premiſſes ſo given by the Parlament un<g ref="char:EOLhyphen"/>to the ſaid reſpective perſons, Be it Ordained by his Highneſs the Lord Protector, by and with the advice and conſent of his Council, and it is Ordained by the Authority aforeſaid, That all and every the Honours, Mannors, Caſtles, Houſes, Meſſuages, Forreſts. Chaſes, Parks, Lands, Tenements and Hereditaments in <hi>Scotland,</hi> which upon the eighteenth of <hi>April,</hi> one thouſand ſix hundred forty and eight, or at any time ſince, did belong unto <hi>James</hi> late Duke of <hi>Hamilton, William</hi> late Duke of <hi>Hamilton, John</hi> Earl of <hi>Crawford-Lindſey, James</hi> Earl of <hi>Calender,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Earl <hi>Marſhall,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Earl of <hi>Kelley, John</hi> Earl of <hi>Lowderdail, John</hi> Earl of <hi>Lowdoun,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Earl of <hi>Seaforth,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Earl of <hi>Athol,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Viſcount <hi>Kenmure,</hi>
+               <pb n="271" facs="tcp:169198:3"/>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Lorn,</hi> Eldeſt Son of the Marqueſs of <hi>Arguile,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Machlin</hi> eldeſt Son of the Earl of <hi>Lowdoun,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Montgomery</hi> eldeſt ſon of the Earl of <hi>Eg<g ref="char:EOLhyphen"/>glintoun, George</hi> Lord <hi>Spynie,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Cranſton,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Sincleer, Thomas Dallyel</hi> late Major General of the Foot in the <hi>Scotiſh</hi> Army, <hi>John Middletoun,</hi> late Lieutenant Ge<g ref="char:EOLhyphen"/>neral of the Horſe in the <hi>Scottiſh</hi> Army, <hi>James</hi> Viſcount <hi>Newburgh,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Bargany,</hi> Sir <hi>Thomas Thomſon, James Edmeſton</hi> Laird of <hi>Womat,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Napeir,</hi> and <hi>William</hi> Earl of <hi>Glancarn,</hi> and all Royalties, Privileges, Franchiſes, Immunities, Rents and appur<g ref="char:EOLhyphen"/>tenances, to the ſaid Honors, Mannors, Ca<g ref="char:EOLhyphen"/>ſtles, Houſes, Meſſuages, Forreſts, Chaſes, Parks, and Lands, or any of them in <hi>Scotland</hi> belonging or appertaining, which on the ſaid eighteenth day of <hi>April</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty and eight, or at any time ſince were lawfully uſed, or enjoyed with them, or any of them, as part or parcel thereof, be, and are hereby veſted and ſettled, and ad<g ref="char:EOLhyphen"/>judged and deemed to be, and are hereby in the real and actual poſſeſſion and ſeizin of Sir <hi>John Hope</hi> of <hi>Craighall, William Lockard</hi> the <hi>younger</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Saltonſtal,</hi> and <hi>Edward Siler</hi> Commisſioner at <hi>Lieth, Lieutenant Colonel Wilks,</hi> Deputy Governour of <hi>Leith, David Barkley <abbr>Eſq</abbr> John Harpar</hi> Advocate, and the Survivors and Survivor of them, their heirs and aſſigns, for the uſes and purpoſes, here<g ref="char:EOLhyphen"/>after in and by this Ordinance expreſſed, until the ſale, diſpoſition, and conveyance thereof, or of ſuch part thereof as ſhall be requiſite for
+<pb n="272" facs="tcp:169198:4"/>the purpoſes aforeſaid, ſhall be made in ſuch manner, as is herein directed, and the Re<g ref="char:EOLhyphen"/>mainder to the uſe of his Highneſs the <hi>Lord Protector</hi> and his Succeſſors for the benefit of the Commonwealth.</p>
+            <p>And be it further Ordained by the Authority aforeſaid, That the ſaid Sir <hi>John Hope</hi> and the reſt of the Truſtees before named, the Survivors and Survivor of them, ſhall cauſe a due and exact ſurvey to be taken and returned unto them, of all and every the eſtates of the perſons aforeſaid, at the time aforeſaid, and of the yearly value thereof reſpectively, as they were worth to be let in the year one thouſand ſix hundred forty and nine, and alſo return to be made unto them of all and every the Claims of any Eſtate, Right, Title or Intereſt of any other perſon and perſons in or to any the premiſſes, and of all Debts, Charges, and Incumbrances, charged, or chargeable upon the ſame, or any part thereof reſpectively, and which ſhall be allowed by the Commisſioners named in the ſaid Ordinance of Pardon and Grace to the People of <hi>Scotland,</hi> for determining Claims ac<g ref="char:EOLhyphen"/>cording to the Qualifications and Proviſions contained in the ſaid Ordinance, and thereup<g ref="char:EOLhyphen"/>on in the firſt place, in caſe the reſpective Lands of ſuch perſon excepted, be ſufficient to ſatisfy all the Debts, Charges, and Incumbrances ſo allowed, as aforeſaid, and alſo the proviſion made by the ſaid Ordinance for the Wife, Child or Children of ſuch perſon, That then the ſaid Sir <hi>John Hope,</hi> and the reſt of the Truſtees before-named, or any four of them, ſhall alot and ſet out unto every of the Creditors of ſuch
+<pb n="273" facs="tcp:169198:4"/>perſon ſo much of the ſaid Lands, belonging unto ſuch excepted perſon, at the rate of twenty years purchaſe at the leaſt, as ſhall be ſufficient to ſatisfy ſuch Debt, Charge and Incum<g ref="char:EOLhyphen"/>brance, and to convey the Inheritance of the ſaid Land ſo ſet out unto ſuch Creditor and Cre<g ref="char:EOLhyphen"/>ditors, &amp; his, her and their Heirs reſpectively in ſatisfaction of the ſaid Debt, Charge or In<g ref="char:EOLhyphen"/>cumbrance, and thereupon to take up the ſecu<g ref="char:EOLhyphen"/>rity, and that ſuch Creditor and Creditors, his and their heirs, and aſſigns, ſhall from henceforth have, hold and enjoy all and every the Lands, and Premiſſes ſo ſet out and con<g ref="char:EOLhyphen"/>veyed, according to ſuch conveyance freed and diſcharged, in manner as is herein provided, of and from all and all manner of Bargains, Sales, Gifts, Grants, Mortgages, Iudge<g ref="char:EOLhyphen"/>ments, Decrees, Iointures, Dowers, or o<g ref="char:EOLhyphen"/>ther Incumbrances had, made, committed, or done by ſuch perſon ſo excepted reſpectively, or any claiming under him, ſince the eighteenth day of <hi>April</hi> one thouſand ſix hundred forty and eight. And that the ſaid Truſtees ſhall convey and aſſure unto the Wife, Child or Chil<g ref="char:EOLhyphen"/>dren of ſuch excepted perſon reſpectively Lands, Tenements or Hereditaments of the cleer yearly value appointed unto ſuch Wife, Child or Chil<g ref="char:EOLhyphen"/>dren by the ſaid Ordinance reſpectively, under ſuch yearly Rent and Rents, and in ſuch man<g ref="char:EOLhyphen"/>ner, as is in and by the ſaid Ordinance limited and appointed.</p>
+            <p>And it is further Ordained, That the ſaid Truſtees herein named, or any four of them, ſhall convey and aſſure unto the reſpective per<g ref="char:EOLhyphen"/>ſons to whom the late Parlament hath by Vote or Order of Parlament given any lands
+<pb n="274" facs="tcp:169198:5"/>in <hi>Scotland,</hi> and to their Heirs and Aſſigns, the Lands, Tenements and Hereditaments, which have been already allotted and ſet out unto them upon Survey by the Commisſio<g ref="char:EOLhyphen"/>ners for Sequeſtrations in <hi>Scotland,</hi> out of the E<g ref="char:EOLhyphen"/>ſtates of any the perſons ſo excepted as aforeſaid, in purſuance of ſuch Vote or Order, and which have been by them or their Tenants or Aſſigns, poſſeſſed and enjoyed, according to ſuch ſurvey, and allotment, in performance of the ſaid reſpe<g ref="char:EOLhyphen"/>ctive Votes and Orders under the Rents, Conditions and Limitations in ſuch Vote, or Order expreſſed (if any be) to be by them en<g ref="char:EOLhyphen"/>joyed accordingly.</p>
+            <p>Provided alwaies, That in caſe the Lands, Tenements, and Hereditaments of ſuch ex<g ref="char:EOLhyphen"/>cepted perſon be not ſufficient to ſatisfy the re<g ref="char:EOLhyphen"/>ſpective Debts, Charges and Incumbran<g ref="char:EOLhyphen"/>ces of ſuch reſpective perſon, and alſo to make up the full proviſion aforeſaid, for his Wife, Child, or Children, that then the ſaid Truſtees, or any four of them, be impowred and authori<g ref="char:EOLhyphen"/>zed, and are hereby impowred and authorized to diſtribute all and every the Lands, Tene<g ref="char:EOLhyphen"/>ments, &amp; Hereditaments of every ſuch excepted perſon amongſt the ſaid Creditors, and the Wife, Child or Children of ſuch perſon, ſo far as the ſame ſhall extend proportionably, every of them bearing a proportionable abatement of what the Premiſſes ſhall fall ſhort to ſatisfy, and to convey and aſſure the ſame ſo proporti<g ref="char:EOLhyphen"/>oned accordingly.</p>
+            <p>Provided alſo, That in caſe any of the ſaid perſons unto whom the Parlament hath given lands in <hi>Scotland,</hi> be already ſettled by the ſaid Commisſioners in any of the Lands or Eſtate
+<pb n="275" facs="tcp:169198:5"/>of ſuch excepted perſon, whoſe Lands ſhall not be ſufficient to ſatisfy his Debts, and make proviſion for his Wife and Children, as aforeſaid, that yet nevertheleſs the ſaid Com<g ref="char:EOLhyphen"/>misſioners ſhall convey and aſſure unto ſuch perſon and perſons, and his and their Heirs, the Lands ſo allotted and ſet out unto him as a<g ref="char:EOLhyphen"/>foreſaid, and in lieu thereof, ſhall allot and ſet forth Lands of the ſame value, or to ſuch value as the Lands of ſuch excepted perſon ſhall fall ſhort as aforeſaid, ſo as the ſame ex<g ref="char:EOLhyphen"/>ceed not the full value of the premiſſes ſo al<g ref="char:EOLhyphen"/>lotted and ſet out by the ſaid Commisſioners for Sequeſtrations unto ſuch perſon, out of the Lands and Eſtate of ſome other of the perſons excepted in the ſaid Ordinance, of whoſe eſtate there ſhall be a remainder after the Debts, Charges and Incumbrances ſatisfyed and pro<g ref="char:EOLhyphen"/>viſion made for his Wife and Children, as a<g ref="char:EOLhyphen"/>foreſaid, and ſhall convey the ſame unto the Creditors in ſuch ſort as is before Directed and Ordained.</p>
+            <p>Provided alſo, That if the ſaid Commisſi<g ref="char:EOLhyphen"/>oners for Sequeſtrations have alotted and ſet out unto any of the ſaid perſons to whom the Parlament gave Lands, as aforeſaid, any Lands, Tenements or Hereditaments of any perſon or perſons not excepted by the ſaid Ordi<g ref="char:EOLhyphen"/>nance from Pardon, that then the ſaid Truſtees or any four of them, be impowred and authori<g ref="char:EOLhyphen"/>zed to ſet out, convey and aſſure unto ſuch per<g ref="char:EOLhyphen"/>ſon and perſons, and his and their heirs, out of the eſtate and eſtates of one or more of the ſaid excepted perſons, which ſhall remain after the Debts, Charges and Incumbrances charged or chargeable upon ſuch eſtate, and
+<pb n="276" facs="tcp:169198:6"/>ſuch proviſion for the Wife, Child, or Children of ſuch excepted perſon ſo ſatisfyed and made as aforeſaid, in lieu of the Lands ſo ſet out and allotted by the ſaid Commisſioners for Sequeſtrations unto ſuch perſon and perſons as aforeſaid. And for the defraying of the in<g ref="char:EOLhyphen"/>cident charges in and about ſettling the premſ<g ref="char:EOLhyphen"/>ſes, Be it Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all and every perſon and perſons who ſhall bring unto the Commisſioners here<g ref="char:EOLhyphen"/>in named, any Claim of any Eſtate, Title, In<g ref="char:EOLhyphen"/>tereſt, Debt, Charge, or Incumbrance to, out of, or upon any of the premiſſes hereby veſted in the ſaid Commisſioners, and a Certificate of the allowance thereof, under the hands of the Commisſioners for allowing Claims, ſhall, before any allotment or conveyance ſhall be made unto him, her or them, by force of this Ordinance pay in ready money unto ſuch per<g ref="char:EOLhyphen"/>ſon or perſons as the Commiſſioners herein named ſhall appoint for that purpoſe, three pence in the pound ſterling, according to the value of ſuch Eſtate, Title, Intereſt, Debt, Charge or Incumbrance, ſo claimed and allow<g ref="char:EOLhyphen"/>ed. And in caſe the Sum ſo paid in at the rate aforeſaid, ſhall not be ſufficient to defray the whole charge which ſhall ariſe by the ſurvey<g ref="char:EOLhyphen"/>ing allotting, and ſettling of the Eſtate of ſuch excepted perſon in manner as aforeſaid, that then it ſhall be lawful to and for the ſaid Com<g ref="char:EOLhyphen"/>misſioners herein named, or any four of them, to demand and receive of each of the ſaid per<g ref="char:EOLhyphen"/>ſons ſo claiming, ſuch further Sum and Sums of money, as his proportionable part of the ſaid Charge ſhall amount unto, which the ſaid reſpe<g ref="char:EOLhyphen"/>ctive Claimers are hereby required to pay unto
+<pb n="277" facs="tcp:169198:6"/>ſuch Perſon and Perſons ſo appointed by the Commisſioners aforeſaid. All and every which Sum and Sums of money ſo paid in ſhall be iſſued and paid out by warrant of the ſaid Com<g ref="char:EOLhyphen"/>misſioners or any Four of them, for ſatisfy<g ref="char:EOLhyphen"/>ing and defraying the ſaid Charges as they ſhall think fir. And the ſaid Commiſſioners herein named are hereby authorized and im<g ref="char:EOLhyphen"/>powred to appoint Surveyors, if they ſhall find, it neceſſary, and alſo Clerks, and other neceſ<g ref="char:EOLhyphen"/>ſary Officers for this Service and to adminiſter an Oath unto ſuch Surveyors as they ſhall find neceſſary to imploy, for the faithful diſcharge of their duty herein, and alſo to allow ſuch fitting Salarirs as they ſhall think fit.</p>
+            <p>Provided that this ſhall not extend to charge any Wife, Child or Children of the ſaid excep<g ref="char:EOLhyphen"/>ted perſons, nor any perſon to whom any lands have been given by the Parlament, with the payment of any Sum or Sums of money towards the ſaid Charge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Wedneſday April</hi> 12. 1654.</p>
+            <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
